@@ -10,6 +10,19 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
+ *= require bootstrap.min.css
+ *= require manual
+ *= require animate
+ *= require owlcarousel/owl.carousel.min
+ *= require owlcarousel/owl.theme.default.min
+ *= require bootstrap-responsive.min
+ *= require css-fontello/animation
+ *= require css-fontello/fontello
+ *= require css-fontello/fontello-codes
+ *= require css-fontello/fontello-embedded
+ *= require css-fontello/fontello-ie7
+ *= require css-fontello/fontello-ie7-codes
  *= require_self
  */
+
+
